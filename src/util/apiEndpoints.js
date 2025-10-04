@@ -1,5 +1,5 @@
 // export const BASE_URL = "http://localhost:8080/api/v1.0";
-export const BASE_URL = "https://onlinefoodbackend-production-0cac.up.railway.app/api/v1.0";
+export const BASE_URL = "https://money-manager-backend-olr1.onrender.com/api/v1.0";
 const CLOUDINARY_CLOUD_NAME = "dloa3bs8m";
 
 export const API_ENDPOINTS = {
