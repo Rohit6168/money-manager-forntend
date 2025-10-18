@@ -188,45 +188,45 @@ Money Manager is a full-stack personal finance management application that helps
 <table>
   <tr>
     <td><img src="screenshots/landing.png" alt="Landing Page" width="400"/><br/><b>Landing Page</b></td>
-    <td><img src="screenshots/signup.png" alt="Sign Up" width="400"/><br/><b>Registration Page</b></td>
+    <td><img src="screenshots/sign.png" alt="Sign Up" width="400"/><br/><b>Registration Page</b></td>
   </tr>
   <tr>
     <td><img src="screenshots/login.png" alt="Login" width="400"/><br/><b>Login Page</b></td>
-    <td><img src="screenshots/email-verification.png" alt="Email" width="400"/><br/><b>Email Verification</b></td>
+    <td><img src="screenshots/email.png" alt="Email" width="400"/><br/><b>Email Verification</b></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="screenshots/profile-activated.png" alt="Activated" width="400"/><br/><b>Profile Activated</b></td>
+    <td colspan="2"><img src="screenshots/verify.png" alt="Activated" width="400"/><br/><b>Profile Activated</b></td>
   </tr>
 </table>
 
 ### 📂 Category Management
 <table>
   <tr>
-    <td><img src="screenshots/add-category.png" alt="Add Category" width="400"/><br/><b>Add Category Modal</b></td>
-    <td><img src="screenshots/emoji-picker.png" alt="Emoji Picker" width="400"/><br/><b>Emoji Icon Selection</b></td>
+    <td><img src="screenshots/addcat.png" alt="Add Category" width="400"/><br/><b>Add Category Modal</b></td>
+    <td><img src="screenshots/emo.png" alt="Emoji Picker" width="400"/><br/><b>Emoji Icon Selection</b></td>
   </tr>
 </table>
 
 ### 💰 Income Management
 <table>
   <tr>
-    <td><img src="screenshots/add-income.png" alt="Add Income" width="400"/><br/><b>Add Income Modal</b></td>
-    <td><img src="screenshots/income-overview.png" alt="Income Overview" width="400"/><br/><b>Income Dashboard</b></td>
+    <td><img src="screenshots/emo.png" alt="Add Income" width="400"/><br/><b>Add Income Modal</b></td>
+    <td><img src="screenshots/incoverview.png" alt="Income Overview" width="400"/><br/><b>Income Dashboard</b></td>
   </tr>
 </table>
 
 ### 💸 Expense Management
 <table>
   <tr>
-    <td><img src="screenshots/add-expense.png" alt="Add Expense" width="400"/><br/><b>Add Expense Modal</b></td>
-    <td><img src="screenshots/expense-overview.png" alt="Expense Overview" width="400"/><br/><b>Expense Dashboard</b></td>
+    <td><img src="screenshots/addexp1.png" alt="Add Expense" width="400"/><br/><b>Add Expense Modal</b></td>
+    <td><img src="screenshots/expover.png" alt="Expense Overview" width="400"/><br/><b>Expense Dashboard</b></td>
   </tr>
 </table>
 
 ### 📊 Dashboard & Analytics
 <table>
   <tr>
-    <td><img src="screenshots/dashboard.png" alt="Dashboard" width="400"/><br/><b>Main Dashboard</b></td>
+    <td><img src="screenshots/dash.png" alt="Dashboard" width="400"/><br/><b>Main Dashboard</b></td>
     <td><img src="screenshots/financial-chart.png" alt="Chart" width="400"/><br/><b>Financial Overview Chart</b></td>
   </tr>
 </table>
@@ -234,7 +234,7 @@ Money Manager is a full-stack personal finance management application that helps
 ### 🔍 Filtering & Reports
 <table>
   <tr>
-    <td><img src="screenshots/filters.png" alt="Filters" width="400"/><br/><b>Advanced Filters</b></td>
+    <td><img src="screenshots/filter.png" alt="Filters" width="400"/><br/><b>Advanced Filters</b></td>
   </tr>
 </table>
 
