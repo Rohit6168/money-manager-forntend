@@ -1,5 +1,5 @@
 import logo from "./logo.png";
-import login_bg from "./login-bg.png";
+import login_bg from "./login-bg.jpg";
 import landing from "./landing.png";
 import {Coins, FunnelPlus, LayoutDashboard, List, Wallet} from "lucide-react";
 
